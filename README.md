@@ -12,7 +12,7 @@ docker run -d --name ssr-with-net-speeder -p 8989:8989 jialezi/ssr-with-net-spee
 
 ```
 镜像 : jialezi/ssr-with-net-speeder
-启动命令(CMD) ：-s 0.0.0.0 -p 8989 -k RUYO.net -m rc4-md5 -o http_simple -O auth_sha1
+启动命令(CMD) ：-s 0.0.0.0 -p 8989 -k jaz -m rc4-md5 -o http_simple -O auth_sha1
 ```
 
 
