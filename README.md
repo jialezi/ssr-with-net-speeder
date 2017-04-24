@@ -19,3 +19,8 @@ docker run -d --name ssr-with-net-speeder -p 8989:8989 jialezi/ssr-with-net-spee
 
 ## SS镜像
 https://github.com/jialezi/ss-with-net-speeder
+
+
+
+## 感谢
+https://github.com/malaohu/ssr-with-net-speeder
