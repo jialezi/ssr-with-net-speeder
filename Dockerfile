@@ -1,6 +1,6 @@
 # ssr-with-net-speeder
 FROM ubuntu:14.04.3
-MAINTAINER malaohu <tua@live.cn>
+MAINTAINER jaz <jaz@live.in>
 
 RUN apt-get update && \
 apt-get clean  
